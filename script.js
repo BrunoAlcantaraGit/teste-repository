@@ -51,7 +51,7 @@
 
   // Abrir popup
   btn.addEventListener('click', ()=>{
-    const texto = '🎉 Feliz aniversário, Marília! 🎂 vai ter que me dar o cu agora 👌🏻👌🏻👌🏻';
+    const texto = '🎉 Feliz aniversário, Marília! 🎂 Desejo toda felicidade e sucesso do mundo inteiro, e que nossos caminhas estejam juntos para sempres, te amo!❤❤';
     popupText.textContent = texto;
     popup.classList.add('active');
     createConfetti(window.innerWidth/2);
